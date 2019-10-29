@@ -1,0 +1,10 @@
+#+TITLE: #+TITLE: first-dummy-post
+#+DATE: 2019-10-30T07:08:05+08:00
+#+PUBLISHDATE: 2019-10-30T07:08:05+08:00
+#+DRAFT: nil
+#+TAGS: nil, nil
+#+DESCRIPTION: Short description
+
+
+
+* still a dummy

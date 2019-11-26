@@ -1,10 +1,9 @@
-baseURL: https://blogd.qinggbo.tech/
+baseURL: https://blog.qingbo.tech/
 footnoteReturnLinkContents: ↩
 params:
   AuthorName: 张清波
   GitHubUser: ripple0328
   SidebarRecentLimit: 5
-  Subtitle: my blog
 permalinks:
   posts: /:year/:month/:title/
 title: Qingbo

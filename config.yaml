@@ -1,11 +1,11 @@
 baseURL: https://blog.qingbo.tech/
 footnoteReturnLinkContents: ↩
 params:
-  AuthorName: 张清波
+  AuthorName: Ripple
   GitHubUser: ripple0328
   SidebarRecentLimit: 5
 permalinks:
   posts: /:year/:month/:title/
-title: Qingbo
+title: Titalium
 theme: "base16"
 pygmentsuseclasses: true
